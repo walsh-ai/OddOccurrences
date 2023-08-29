@@ -1,0 +1,14 @@
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\bin\Debug\net7.0\OddOccurrences.exe
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\bin\Debug\net7.0\OddOccurrences.deps.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\bin\Debug\net7.0\OddOccurrences.runtimeconfig.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\bin\Debug\net7.0\OddOccurrences.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\bin\Debug\net7.0\OddOccurrences.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\obj\Debug\net7.0\OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\obj\Debug\net7.0\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\obj\Debug\net7.0\OddOccurrences.AssemblyInfo.cs
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\obj\Debug\net7.0\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\obj\Debug\net7.0\OddOccurrences.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\obj\Debug\net7.0\refint\OddOccurrences.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\obj\Debug\net7.0\OddOccurrences.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\obj\Debug\net7.0\OddOccurrences.genruntimeconfig.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\OddOccurrences\obj\Debug\net7.0\ref\OddOccurrences.dll
